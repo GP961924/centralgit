@@ -1,0 +1,15 @@
+#!/bin/bash
+
+###############################################
+# Author: Govind
+
+# Date: 29/01/2014
+
+# This is script for  creating a folder
+
+mkdir testfolder1
+
+# This script is for creating a file
+
+touch testfile.txt
+ 
