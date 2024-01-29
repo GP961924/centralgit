@@ -1,0 +1,22 @@
+#!/bin/bash
+
+##########################################3
+
+# Authoe: Govind
+
+# Date: 29.01.24
+
+# This script will create few files with different files
+
+# Version: v1
+
+
+# create a file using cat command
+
+cat > netflixs3bucket
+
+# create a file using touch command 
+
+touch amazonprimes3bucket
+
+
